@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello saya Upin, dan ini adik saya Ipin</h1>
+    <p>locale_accept_from_http</p>
 </body>
 </html>
